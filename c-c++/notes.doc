@@ -1,0 +1,6 @@
+frinend can class acces thr private and pricted members of the base class.
+normaly private and procted members cannot be acces ouct side of the class.
+
+
+
+           use of pointers with base/derived classes
